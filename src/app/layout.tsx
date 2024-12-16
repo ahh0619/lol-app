@@ -4,6 +4,7 @@ import Header from "@/components/layout/Header";
 import "@/styles/globals.css";
 import Providers from "@/providers/RQProvider";
 import ScrollTop from "@/components/layout/ScrollTop";
+import { ThemeProvider } from "next-themes";
 
 const pretendard = localFont({
   src: "../../public/fonts/PretendardVariable.woff2",
@@ -26,13 +27,15 @@ export default function RootLayout({
     <html lang="ko">
       <link rel="icon" href="/icons/lol.png" sizes="any" />
       <Providers>
-        <body className={`${pretendard.variable} antialiased`}>
-          <div className="wrap">
-            <Header />
-            <main className="pt-12">{children}</main>
-          </div>
-          <ScrollTop />
-        </body>
+        <ThemeProvider attribute="class" defaultTheme="dark">
+          <body className={`${pretendard.variable} antialiased`}>
+            <div className="wrap">
+              <Header />
+              <main className="pt-12">{children}</main>
+            </div>
+            <ScrollTop />
+          </body>
+        </ThemeProvider>
       </Providers>
     </html>
   );

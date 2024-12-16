@@ -4,7 +4,7 @@ import Nav from "./Nav";
 
 export default function Header() {
   return (
-    <header className="flex items-center justify-center gap-32 p-3 border-b border-b-white border-t-0 fixed w-full bg-black z-10">
+    <header className="flex items-center justify-center gap-32 p-3 border-b dark:border-b-white border-t-0 fixed w-full dark:bg-black bg-white z-10">
       <h1>
         <Link href="/">
           <Image
@@ -13,7 +13,7 @@ export default function Header() {
             alt="홈 아이콘"
             width={24}
             height={24}
-            className="invert"
+            className="dark:invert"
           />
         </Link>
       </h1>

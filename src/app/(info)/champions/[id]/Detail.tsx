@@ -24,7 +24,7 @@ export default function Detail({ champion, version }: DetailProps) {
   );
 
   return (
-    <article className="relative w-full">
+    <article className="relative w-full text-white">
       <div
         className="absolute inset-0 -z-10 bg-cover bg-no-repeat bg-fixed opacity-80 filter grayscale-[60%]"
         style={{
