@@ -1,4 +1,4 @@
-# 주특기 플러스주차 - Riot API를 활용한 리그 오브 레전드 정보 앱
+# ![lol](https://github.com/user-attachments/assets/743a51bc-5810-41b8-8800-38ff7a4029e8)주특기 플러스주차 - Riot API를 활용한 리그 오브 레전드 정보 앱
 ![스크린샷 2024-12-16 112356](https://github.com/user-attachments/assets/10180d0d-2be8-46a4-887f-8c34d062bbd6)
 * 이번 프로젝트에서는 **Riot Games의 API**와 **Data Dragon**을 활용하여 LoL의 다양한 데이터를 조회하고, <br>
 이를 기반으로 웹 애플리케이션을 직접 만들어보게 됩니다!
