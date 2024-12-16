@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: `League Of Legends : ${champion.name}`,
       description: `${champion.lore}`,
-      url: `http://localhost:3000/champions/${params.id}`,
+      url: `https://lol-app-psi.vercel.app//champions/${params.id}`,
     },
   };
 }

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: "League Of Legends : 챔피언 목록",
     description:
       "Riot API를 이용해 리그 오브 레전드의 모든 챔피언 목록을 확인하세요.",
-    url: "http://localhost:3000/champions",
+    url: "https://lol-app-psi.vercel.app//champions",
   },
 };
 
