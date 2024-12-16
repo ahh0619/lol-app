@@ -12,14 +12,8 @@
 그리고 사용자와 상호작용하는 웹 애플리케이션을 만드는 방법을 배우게 됩니다.
 ---
 
-## 🌐 배포 링크
-
-**[리그 오브 레전드 정보 앱 배포 사이트](https://lol-app-psi.vercel.app/)**
----
-
-## 📝 블로그 포스팅
-
-**[블로그 포스팅](https://velog.io/@hhyun19/%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-Riot-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A6%AC%EA%B7%B8-%EC%98%A4%EB%B8%8C-%EB%A0%88%EC%A0%84%EB%93%9C-%EC%A0%95%EB%B3%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)**
+## 🌐 [배포 링크](https://lol-app-psi.vercel.app/)
+## 📝 [블로그 포스팅](https://velog.io/@hhyun19/%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-Riot-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A6%AC%EA%B7%B8-%EC%98%A4%EB%B8%8C-%EB%A0%88%EC%A0%84%EB%93%9C-%EC%A0%95%EB%B3%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ---
 
