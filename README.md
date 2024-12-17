@@ -12,7 +12,17 @@
 그리고 사용자와 상호작용하는 웹 애플리케이션을 만드는 방법을 배우게 됩니다.
 ---
 
-**🌐 [배포 링크](https://lol-app-psi.vercel.app/)** **📝 [블로그 포스팅](https://velog.io/@hhyun19/%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-Riot-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A6%AC%EA%B7%B8-%EC%98%A4%EB%B8%8C-%EB%A0%88%EC%A0%84%EB%93%9C-%EC%A0%95%EB%B3%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)**
+# **🌐 [배포 링크](https://lol-app-psi.vercel.app/)**
+
+![스크린샷 2024-12-17 142750](https://github.com/user-attachments/assets/c66dee02-f026-4cd6-900d-6833dc6e4db6)
+
+- **버셀 이미지 최적화의 무료 사용량이 초과했습니다. (한 달마다 초기화)**
+- **따라서, 배포된 링크에는 이미지가 제대로 안 나올 수 있습니다.**
+- **`git clone`을 하시거나 `zip`파일로 테스트 해주세요.**
+---
+
+**📝 [블로그 포스팅 1](https://velog.io/@hhyun19/%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-Riot-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A6%AC%EA%B7%B8-%EC%98%A4%EB%B8%8C-%EB%A0%88%EC%A0%84%EB%93%9C-%EC%A0%95%EB%B3%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)**
+**📝 [블로그 포스팅 2](https://velog.io/@hhyun19/%EA%B0%9C%EC%9D%B8%EA%B3%BC%EC%A0%9C-%EB%8B%A4%EB%93%A4-%ED%95%98%EB%8B%88%EA%B9%8C)**
 
 ---
 
